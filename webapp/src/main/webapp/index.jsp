@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-   <h1>App version V2 deployed using Ansible</h1>
+   <h1>App version V3 deployed using Ansible</h1>
     <h1>New user Register for JD DevOps Learning Lab</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
